@@ -99,11 +99,11 @@ The dataset contains customer demographic information, campaign details, and sub
 
 ### Dashboard Overview
 
-![Dashboard](Images/Bank_Marketing_Dashboard.png)
+![Dashboard](Bank_Marketing_Dashboard.png)
 
 ### Dashboard Analysis
 
-![Dashboard](Images/Bank_Marketing_Dashboard1.png)
+![Dashboard](Bank_Marketing_Dashboard1.png)
 
 ---
 
